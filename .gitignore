@@ -1,0 +1,14 @@
+# Design / source images
+LogosV1.png
+LogosV2.png
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
